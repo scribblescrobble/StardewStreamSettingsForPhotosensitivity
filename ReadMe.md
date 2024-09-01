@@ -6,18 +6,18 @@ So that photosensitive viewers (like me!) can more comfortably and safely view y
 ## how?
 There are three settings you can change to disable certain flash effects in the game.
 
-### show flash effects
-This setting is enabled by default. It causes your screen to flash when a bomb detonates, when thunder is heard on a stormy day, and probably some other situations too. This setting can be disabled by unchecking the box labeled "Show Flash Effects":
+### Show Flash Effects
+This setting is enabled by default. It causes your screen to flash when a bomb detonates or when thunder is heard on a stormy day, and probably some other situations I don't know about because I have it turned off. This setting can be disabled by unchecking the box labeled "Show Flash Effects":
 
 ![screenshot of stardew valley settings page](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.46.38%E2%80%AFPM.png)
 
-### snow transparency
+### Snow Transparency
 Most people are aware that bright, alternating lights can cause seizures in people with photosensitive epilepsy and pain or other health problems in other photosensitive people (and, if they're bright and flashy enough, in some people who don't consider themselves photosensitive at all!). Fewer people know that moving patterns, like sun reflecting off of water or filtering through leaves, or moving stripes or swirls of contrasing colors, or small white dots moving against a darker background (like the snow effect in winter!), can also trigger photosensitivity.
 To disable the snow effect, drag snow transparency to the lowest setting, like I have here:
 
 ![screenshot of stardew valley settings page](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.46.38%E2%80%AFPM.png)
 
-### menu background
+### Menu Background
 By default, when you open your menu in Stardew Valley, the background dims. Most of the time, to most players, this isn't even noticeable. However, if you're pausing and unpausing your game rapidly, such as when pause buffering or mass opening mail, this creates a very unpleasant flash effect.
 
 In 1.6, the game added the option to keep your background the same brightness level while in the menu. To enable it, set your menu background level to "None":
