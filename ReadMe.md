@@ -1,7 +1,7 @@
 # A guide to disabling flash effects in Stardew Valley
 
 ## why?
-So that photosensitive viewers (like me!) can more comfortably and safely view your stream!
+So that photosensitive viewers (like me!) can more comfortably and safely view your stream.
 
 ## how?
 There are three settings you can change to disable certain flash effects in the game.
