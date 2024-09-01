@@ -12,7 +12,7 @@ This setting is enabled by default. It causes your screen to flash when a bomb d
 ![screenshot of stardew valley settings page](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.46.38%E2%80%AFPM.png)
 
 ### Snow Transparency
-Most people are aware that bright, alternating lights can cause seizures in people with photosensitive epilepsy and pain or other health problems in other photosensitive people (and, if they're bright and flashy enough, in some people who don't consider themselves photosensitive at all!). Fewer people know that moving patterns, like sun reflecting off of water or filtering through leaves, or moving stripes or swirls of contrasing colors, or small white dots moving against a darker background (like the snow effect in winter!), can also trigger photosensitivity.
+Most people are aware that bright, alternating lights can cause seizures, migraines, dizziness, pain, and other health problems in people with various photosensitive conditions (and, if they're bright and flashy enough, they can cause discomfort in some people who don't consider themselves photosensitive at all!). Fewer people know that moving patterns, like sun reflecting off of water or filtering through moving leaves, or moving stripes or swirls of contrasing colors, or small white dots moving against a darker background (like the snow effect in winter!), can also trigger photosensitivity.
 To disable the snow effect, drag snow transparency to the lowest setting, like I have here:
 
 ![screenshot of stardew valley settings page](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.46.38%E2%80%AFPM.png)
@@ -29,6 +29,10 @@ If playing on patch 1.5 or lower, please give your viewers a warning before you 
 ### keeping your settings changes when you create new files
 Each stardew valley save file has its own settings. When you create a new save file, as of update 1.5.5, the settings are pulled from your most recently saved save file. Some players who regularly create new files (such as for speedrunning) will have a "settings file" where they set all their preferred settings, then, before creating new files, open and save that file to make sure their new file has all of their preferred settings. If you have multiple old files with flash effects enabled, this may help you avoid accidentally creating new files with flash effects enabled.
 I am unaware of any way to change the settings on multiple existing files at once, though, so if you play multiple files on stream you'll have to change the settings on each file individually.
+
+### in conclusion
+This is not meant as an educational guide to photosensitive effects in general. Any sequence of moving lights and images could potentially trigger someone's photosensitivity. This is just meant as a guide to reduce the intensity of flash effects in Stardew Valley. And as astute viewers may have noticed, I have mods installed; the extra menu tab is for UI Info Suite and you cannot normally play the game at 65% zoom. None of my mods affect the settings discussed in this guide.
+
 
 
 
