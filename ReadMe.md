@@ -12,7 +12,7 @@ This setting is enabled by default. It causes your screen to flash when a bomb d
 ![screenshot of stardew valley settings page](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.46.38%E2%80%AFPM.png)
 
 ### Snow Transparency
-Most people are aware that bright, alternating lights can cause seizures, migraines, dizziness, pain, and other health problems in people with various photosensitive conditions (and, if they're bright and flashy enough, they can cause discomfort in some people who don't consider themselves photosensitive at all!). Fewer people know that moving patterns, like sun reflecting off of water or filtering through moving leaves, or moving stripes or swirls of contrasing colors, or small white dots moving against a darker background (like the snow effect in winter!), can also trigger photosensitivity.
+Most people are aware that bright, alternating lights can cause seizures, migraines, dizziness, pain, and other health problems in people with various photosensitive conditions (and, if they're bright and flashy enough, they can cause discomfort in some people who don't consider themselves photosensitive at all!). Fewer people know that moving patterns, like sun reflecting off of water, or moving stripes or swirls of contrasing colors, or small white dots moving against a darker background (like the snow effect in Stardew Valley's winter!), can also trigger photosensitivity.
 
 To disable the snow effect, drag snow transparency to the lowest setting, like I have here:
 
