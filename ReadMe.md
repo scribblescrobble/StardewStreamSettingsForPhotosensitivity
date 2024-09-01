@@ -1,9 +1,9 @@
 # A guide to disabling flash effects in Stardew Valley
 
-## why?
+## Why?
 So that photosensitive viewers (like me!) can more comfortably and safely view your stream.
 
-## how?
+## How?
 There are three settings you can change to disable certain flash effects in the game.
 
 ### Show Flash Effects
@@ -26,11 +26,11 @@ In 1.6, the game added the option to keep your background the same brightness le
 
 If playing on patch 1.5 or lower, please give your viewers a warning before you rapidly menu. For example, if spam opening mail in a speedrun, say: "I'm about to check the mail. Look away if you're sensitive to flashing lights," and then, when you're done checking mail, let everyone know it's safe to look back.
 
-### keeping your settings changes when you create new files
+### Keeping your settings changes when you create new files
 Each stardew valley save file has its own settings. When you create a new save file, as of update 1.5.5, the settings are pulled from your most recently saved save file. Some players who regularly create new files (such as for speedrunning) will have a "settings file" where they set all their preferred settings, then, before creating new files, open and save that file to make sure their new file has all of their preferred settings. If you have multiple old files with flash effects enabled, this may help you avoid accidentally creating new files with flash effects enabled.
 I am unaware of any way to change the settings on multiple existing files at once, though, so if you play multiple files on stream you'll have to change the settings on each file individually.
 
-### in conclusion
+### In conclusion
 This is not meant as an educational guide to photosensitive effects in general. Any sequence of moving lights and images could potentially trigger someone's photosensitivity. This is just meant as a guide to reduce the intensity of flash effects in Stardew Valley. And as astute viewers may have noticed, I have mods installed; the extra menu tab is for UI Info Suite and you cannot normally play the game at 65% zoom. None of my mods affect the settings discussed in this guide.
 
 
