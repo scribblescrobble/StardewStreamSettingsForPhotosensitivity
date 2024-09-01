@@ -7,22 +7,22 @@ So that photosensitive viewers (like me!) can more comfortably and safely view y
 There are three settings you can change to disable certain flash effects in the game.
 
 ### show flash effects
-This setting is enabled by default. It causes your screen to flash when a bomb detonates, when thunder is heard on a stormy day, and probably some other situations I'm not aware of. This setting should be disabled by unchecking the box labeled "Show Flash Effects" like I have in this screenshot:
+This setting is enabled by default. It causes your screen to flash when a bomb detonates, when thunder is heard on a stormy day, and probably some other situations too. This setting can be disabled by unchecking the box labeled "Show Flash Effects":
 
-![alt text](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.46.38%E2%80%AFPM.png)
+![screenshot of stardew valley settings page](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.46.38%E2%80%AFPM.png)
 
 ### snow transparency
 Most people are aware that bright, alternating lights can cause seizures in people with photosensitive epilepsy and pain or other health problems in other photosensitive people (and, if they're bright and flashy enough, in some people who don't consider themselves photosensitive at all!). Fewer people know that moving patterns, like sun reflecting off of water or filtering through leaves, or moving stripes or swirls of contrasing colors, or small white dots moving against a darker background (like the snow effect in winter!), can also trigger photosensitivity.
 To disable the snow effect, drag snow transparency to the lowest setting, like I have here:
 
-![alt text](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.46.38%E2%80%AFPM.png)
+![screenshot of stardew valley settings page](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.46.38%E2%80%AFPM.png)
 
 ### menu background
 By default, when you open your menu in Stardew Valley, the background dims. Most of the time, to most players, this isn't even noticeable. However, if you're pausing and unpausing your game rapidly, such as when pause buffering or mass opening mail, this creates a very unpleasant flash effect.
 
 In 1.6, the game added the option to keep your background the same brightness level while in the menu. To enable it, set your menu background level to "None":
 
-![alt text](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.47.45%E2%80%AFPM.png)
+![screenshot of stardew valley settings page](https://github.com/scribblescrobble/StardewStreamSettingsForPhotosensitivity/blob/main/Images/Screenshot%202024-09-01%20at%2012.47.45%E2%80%AFPM.png)
 
 If playing on patch 1.5 or lower, please give your viewers a warning before you rapidly menu. For example, if spam opening mail in a speedrun, say: "I'm about to check the mail. Look away if you're sensitive to flashing lights," and then, when you're done checking mail, let everyone know it's safe to look back.
 
