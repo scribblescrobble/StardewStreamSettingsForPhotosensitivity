@@ -30,6 +30,10 @@ If playing on patch 1.5 or lower, please give your viewers a warning before you 
 ### Keeping your settings changes when you create new files
 Each stardew valley save file has its own settings. When you create a new save file, as of update 1.5.5, the settings are pulled from your most recently saved save file. Some players who regularly create new files (such as for speedrunning) will have a "settings file" where they set all their preferred settings, then, before creating new files, open and save that file to make sure their new file has all of their preferred settings. If you have multiple old files with flash effects enabled, this may help you avoid accidentally creating new files with flash effects enabled.
 
+If you frequently switch between version 1.6 and lower, keep in mind that <1.6 saves do not have the option to set their menu background to "none," so if your most recently saved file is from an earlier version, your new save file will set your menu background to whatever it was on that save file (probably "default").
+
+Multiplayer settings are weird and inconsistent. If you join someone else's farm, you may need to change your settings.
+
 I am unaware of any way to change the settings on multiple existing files at once, so if you play multiple files on stream you'll have to change the settings on each file individually.
 
 ### In conclusion
